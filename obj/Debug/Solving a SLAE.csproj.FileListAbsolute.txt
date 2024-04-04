@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Solving a SLAE\bin\Debug\Solving a SLAE.exe.config
+C:\Users\HP\source\repos\Solving a SLAE\bin\Debug\Solving a SLAE.exe
+C:\Users\HP\source\repos\Solving a SLAE\bin\Debug\Solving a SLAE.pdb
+C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.exe
+C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.pdb
