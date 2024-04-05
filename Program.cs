@@ -284,7 +284,7 @@ namespace Solving_a_SLAE
                 
                 Console.WriteLine(newUnknownValues[i]);
             }
-
+            Console.WriteLine("Количество итераций: " + operationCounter);
         }
     }
     internal class Program
