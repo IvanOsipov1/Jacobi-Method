@@ -6,3 +6,11 @@ C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.csproj.Suggeste
 C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.exe
 C:\Users\HP\source\repos\Solving a SLAE\obj\Debug\Solving a SLAE.pdb
+E:\MyJob\study\Jacobi-Method\bin\Debug\Solving a SLAE.exe.config
+E:\MyJob\study\Jacobi-Method\bin\Debug\Solving a SLAE.exe
+E:\MyJob\study\Jacobi-Method\bin\Debug\Solving a SLAE.pdb
+E:\MyJob\study\Jacobi-Method\obj\Debug\Solving a SLAE.csproj.AssemblyReference.cache
+E:\MyJob\study\Jacobi-Method\obj\Debug\Solving a SLAE.csproj.SuggestedBindingRedirects.cache
+E:\MyJob\study\Jacobi-Method\obj\Debug\Solving a SLAE.csproj.CoreCompileInputs.cache
+E:\MyJob\study\Jacobi-Method\obj\Debug\Solving a SLAE.exe
+E:\MyJob\study\Jacobi-Method\obj\Debug\Solving a SLAE.pdb

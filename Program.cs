@@ -240,6 +240,7 @@ namespace Solving_a_SLAE
             }
             double b1 = 0;
             int k = 0;
+            int operationCounter = 0;
             while (Math.Abs(errors.Max()) > errorValue)
             {
                 {
@@ -268,6 +269,13 @@ namespace Solving_a_SLAE
                 {
                     errors[i] = Math.Abs(unknownValues[i] - newUnknownValues[i]) / Math.Abs(newUnknownValues[i]);
                     unknownValues[i] = newUnknownValues[i];
+                }
+                operationCounter++;
+                if (operationCounter > 1000)
+                {
+                    Console.WriteLine("Метод не может быть применен для решения СЛАУ, скорее всего, погрешность перестала меняться.");
+                    Console.WriteLine("Программа принудительно завершена");
+                    Environment.Exit(0);
                 }
             }
 
@@ -302,7 +310,7 @@ namespace Solving_a_SLAE
             }
             if (choice1 == 2)
             {
-                matrix1.matrixInputFromFile(@"C:\Users\HP\source\repos\Solving a SLAE\Matrix.txt");
+                matrix1.matrixInputFromFile(@"E:\MyJob\study\Jacobi-Method\Matrix.txt");
             }
 
             matrix1.printMatrix();
@@ -318,7 +326,7 @@ namespace Solving_a_SLAE
             }
             if (choice2 == 2)
             {
-                matrix2.matrixInputFromFile(@"C:\Users\HP\source\repos\Solving a SLAE\FreeMembers.txt");
+                matrix2.matrixInputFromFile(@"E:\MyJob\study\Jacobi-Method\FreeMembers.txt");
             }
 
             matrix2.printMatrix();
